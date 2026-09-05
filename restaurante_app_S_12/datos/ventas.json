@@ -1,0 +1,11 @@
+[
+  {
+    "id_venta": 1,
+    "identificacion_usuario": "123456789",
+    "codigo_producto": "P11",
+    "cantidad": 2,
+    "precio_unitario": 10.0,
+    "fecha": "2026-09-05 12:44:42",
+    "total": 20.0
+  }
+]
